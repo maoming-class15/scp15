@@ -15,3 +15,4 @@
 </div>
 
 忘不了他在主席台上的英姿（？
+<video src="/xiliang/de07a016c7f6dbc7a469a0b2e82b9618.mp4" height=700 width=400 controls></video>
