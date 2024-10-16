@@ -13,3 +13,5 @@
 <div style="display: flex;" >
   <img src="/xiliang/最后的三分.jpg" width="400px" height="400px">
 </div>
+
+忘不了他在主席台上的英姿（？
