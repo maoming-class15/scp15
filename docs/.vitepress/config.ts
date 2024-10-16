@@ -13,7 +13,7 @@ export default defineConfig({
     ],
 
     sidebar: [
-      { text: "主目录", items: [{ text: "麦镜隆", link: "/mai" }] },
+      { text: "主目录", items: [{ text: "麦镜隆", link: "/people/mai" }] },
       {
         text: "教程",
         items: [
