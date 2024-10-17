@@ -12,3 +12,6 @@ hero:
     - theme: alt
       text: 面向写作者的教程
       link: /howtouse
+    - theme: alt
+          text: 面向开发与维护的教程
+          link: /howtousePro

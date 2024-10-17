@@ -10,6 +10,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "面向写作者的教程", link: "/howtouse" },
+      { text: "面向开发与维护的教程", link: "/howtousePro" },
     ],
 
     sidebar: [
@@ -18,7 +19,7 @@ export default defineConfig({
         text: "教程",
         items: [
           { text: "面向写作者的教程", link: "/howtouse" },
-          { text: "面向开发与维护人员", link: "/api-examples" },
+          { text: "面向开发与维护的教程", link: "/howtousePro" },
         ],
       },
     ],
